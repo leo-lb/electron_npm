@@ -1,4 +1,8 @@
 {
+  "name": "electron",
+  "version": "4.2.4",
+  "description": "",
+  "repository": "https://github.com/leo-lb/electron_npm", 
   "scripts": {
     "cache-clean": "rm -rf ~/.electron && rm -rf dist",
     "postinstall": "node install.js",
